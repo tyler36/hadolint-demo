@@ -1,3 +1,5 @@
+[![Dependabot Updates](https://github.com/tyler36/hadolint-demo/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/tyler36/hadolint-demo/actions/workflows/dependabot/dependabot-updates)
+
 # Hadolint <!-- omit in toc -->
 
 - [Overview](#overview)
