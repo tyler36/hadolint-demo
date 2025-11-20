@@ -1,0 +1,6 @@
+rules:
+  # Disable ["unpinned-uses"](https://docs.zizmor.sh/audits/#unpinned-uses)
+  unpinned-uses:
+    config:
+      policies:
+        "*": any
